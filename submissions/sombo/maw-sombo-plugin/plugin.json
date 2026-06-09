@@ -1,0 +1,8 @@
+{
+  "name": "sombo",
+  "version": "1.0.0",
+  "sdk": "^1.0.0",
+  "description": "Sombo Oracle — Secretary + Discord Relay + Performance Tracker",
+  "surfaces": { "cli": "maw sombo" },
+  "capabilities": ["fs:read", "sdk:plugin", "net:discord"]
+}
